@@ -721,7 +721,7 @@ switch ($page) {
 } 
 ?>
 
-<script>
+<scriptttt>
     // Fungsi untuk menampilkan/menyembunyikan input jumlah
     function toggleQuantityInput(checkbox) {
         const quantityInput = checkbox.nextElementSibling; 
